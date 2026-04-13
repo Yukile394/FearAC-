@@ -1,0 +1,7 @@
+name: FearAC
+version: '${project.version}'
+main: com.fearac.FearAC
+api-version: '1.20'
+description: En iyi koruma altyapisi - FearAC
+author: Sen (Github Owner)
+
